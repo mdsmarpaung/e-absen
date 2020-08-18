@@ -1,0 +1,98 @@
+#file_input {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+}
+
+.badge_kembali{
+    width: 100px;
+    height: 27px;
+}
+
+.box{
+    width:316px;
+    margin:0 auto;
+    border:1px solid #ccc;
+    margin-top: 20px;
+}
+
+.box_footer{
+    width:auto;
+    border:1px solid #ccc;
+    margin-top: 20px;
+    background-color: rgb(185, 186, 187);
+}
+
+.box_show{
+    border: 1px solid black;
+}
+
+.btn_submit {
+    text-align: end;
+}
+
+.btn_absen{
+    font-size: 20px;
+    width: unset;
+}
+
+.btn_absen1{
+    font-size: 18px;
+    width: unset;
+}
+
+.btn_code{
+    padding-left: 10px;
+}
+
+.ctr_txt {
+    text-align: center;
+    width: auto;
+    margin: auto;
+}
+
+.center {
+    margin: auto;
+    max-width: 300px;
+    padding: 10px;
+}
+
+.form-group{
+    padding-bottom: 10px;
+}
+
+.judul_absen{
+    width: inherit;
+}
+
+.left_space{
+    padding-left: 10px;
+}
+
+.ls_bg_color{
+    background-color: #f8f8f8;
+    border: white solid 2px;
+}
+
+.logo_hdr {
+    display: block;
+}
+
+.logo_lgn {
+    display: block;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+ol.breadcrumb {
+    padding: 3px 1px;
+    list-style: none;
+    background-color: #e9feff;
+    border:1px solid #ccc;
+}
+
+
+
+
+
